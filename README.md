@@ -65,13 +65,11 @@ Here's where the magic happens! EasyEats integrates with real-time grocery data 
 
 ---
 
-## Why I Built This 💭
+## Why We Built This 💭
 
-I created EasyEats after my first semester at the University of Michigan, when I realized how frustrating it was to balance classes, extracurriculars, and eating decently without defaulting to takeout. I watched my friends struggle with the same problem—wanting to cook healthy meals but not knowing where to start or how to make it affordable.
+We created EasyEats for MHacks 25. After our first couple semesters at the University of Michigan, we realized how frustrating it was to balance classes, extracurriculars, and eating decently without defaulting to takeout. I watched my friends struggle with the same problem—wanting to cook healthy meals but not knowing where to start or how to make it affordable.
 
-The moment that made it all worth it? Seeing friends use EasyEats to plan their first home-cooked meals and sending me photos of what they made. That's when I knew this wasn't just another project—it was solving a real problem for real people.
-
-**This project taught me that technology should simplify life in meaningful ways. It's not just about the code—it's about empowering people to make better, easier choices every day.**
+We were able to demonstrate our web application in a short live demo, and it was amazing to see people's faces lighting up, having a new and easy way to make whatever dishes they want, while staying healthy and saving money.
 
 ---
 
